@@ -4,7 +4,7 @@
 using namespace plb;
 typedef double T;
 
-// Define descriptor for lattice
+//  Define descriptor for lattice
 #define DES descriptors::AdvectionDiffusionD2Q5Descriptor
 
 // Store here paramters
